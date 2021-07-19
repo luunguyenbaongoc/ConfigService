@@ -1,0 +1,10 @@
+{
+    "description": "Config for prod env",
+    "port": 9999,
+    "datasource": {
+        "url": "localhost:5555",
+        "username": "postgres",
+        "password": "postgres"
+    },
+    "database": "localhost"
+}
