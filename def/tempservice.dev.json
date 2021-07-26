@@ -1,10 +1,10 @@
 {
     "description": "Config for dev env",
-    "port": 9999,
+    "port": 8888,
     "datasource": {
-        "url": "localhost:5555",
-        "username": "postgres",
-        "password": "postgres"
+        "url": "localhost:8888",
+        "username": "postgres.dev",
+        "password": "postgres.dev"
     },
-    "database": "cloud1.bmes"
+    "database": "cloud1.bmes.dev"
 }
